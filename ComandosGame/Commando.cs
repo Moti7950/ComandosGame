@@ -1,16 +1,18 @@
-﻿public class SoliderStatus
+﻿public class Commando
 {
-    public string name;
-    public string nameCode;
+    public string name { get; set; }
+    public string nameCode { get; set; }
     public string[] Tolls = { "Hammer", "chisel", "rope", "bag", "water" };
-    public string status;
-    
-    public StartGame(string name, string nameCode, string[] Tolls, string status)
+    public string status { get; set; }
+    public Weapon x;
+
+
+    public Commando(string name, string nameCode, string status , Weapon x)
     {
         this.name = name;
         this.nameCode = nameCode;
-        this.Tolls = Tolls;
         this.status = status;
+        this.x = x;
     }
     public void Walk()
     {
@@ -22,10 +24,11 @@
         this.status = "Hide";
         System.Console.WriteLine("The solider hideing now");
     }
-    public void Attack(string Attack_enimil)
+   
+    public void Attack()
     {
         this.status = "Attack";
-        System.Console.WriteLine($"The solider attacted {Attack_enimil}");
+        System.Console.WriteLine($"The solider attacted {name}");
     }
 }
 
