@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive - SaharPro\שולחן העבודה\לימודים\הכשרה מודעין 😁\visual_P\ComandosGame\ComandosGame\bin\Debug\ComandosGame.exe.config
+C:\Users\User\OneDrive - SaharPro\שולחן העבודה\לימודים\הכשרה מודעין 😁\visual_P\ComandosGame\ComandosGame\bin\Debug\ComandosGame.exe
+C:\Users\User\OneDrive - SaharPro\שולחן העבודה\לימודים\הכשרה מודעין 😁\visual_P\ComandosGame\ComandosGame\bin\Debug\ComandosGame.pdb
+C:\Users\User\OneDrive - SaharPro\שולחן העבודה\לימודים\הכשרה מודעין 😁\visual_P\ComandosGame\ComandosGame\obj\Debug\ComandosGame.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - SaharPro\שולחן העבודה\לימודים\הכשרה מודעין 😁\visual_P\ComandosGame\ComandosGame\obj\Debug\ComandosGame.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - SaharPro\שולחן העבודה\לימודים\הכשרה מודעין 😁\visual_P\ComandosGame\ComandosGame\obj\Debug\ComandosGame.exe
+C:\Users\User\OneDrive - SaharPro\שולחן העבודה\לימודים\הכשרה מודעין 😁\visual_P\ComandosGame\ComandosGame\obj\Debug\ComandosGame.pdb
